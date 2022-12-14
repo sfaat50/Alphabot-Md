@@ -43,7 +43,7 @@ global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/cbd2b3528702c134fa27b.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
 global.packname = '© 𝙁𝙖𝙖𝙩𝘽𝙤𝙩𝙯-𝙈𝙙ヅ' //sticker wm ubah
-global.author = 'Di Buat Oleh ZeeoneOfc' //sticker wm ganti nama kalian
+global.author = 'Di Buat Oleh ヅ𝙁𝙖𝙖𝙩𝙎𝙠𝙞𝙯𝙤|𝙁𝙖𝙖𝙩𝙉𝙚𝙜𝙧𝙤ヅ' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.multiplier = 69
@@ -117,16 +117,16 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    sukses: '🤗Done, Oke Desu~',
-    admin: 'Perintah Ini Hanya Bisa Digunakan Oleh Admin !',
-    botAdmin: 'Perintah Ini Hanya Bisa Digunakan Ketika Bot Menjadi Admin !',
-    owner: 'Perintah Ini Hanya Bisa Digunakan Oleh Owner !',
-    group: 'Perintah Ini Hanya Bisa Digunakan Di Group !',
-    private: 'Perintah Ini Hanya Bisa Digunakan Di Private !',
-	bot: 'Fitur Khusus Pengguna Nomor Bot',
-    errtoimg: 'Maaf Saat Ini Belum Support Sticker Gif !',
-    wait: '⏳ Sedang Di Proses',
-	lockCmd: 'Fitur Tidak Diaktifkan Oleh Owner!',
+    sukses: '🤗Done💀',
+    admin: 'Perintah Ini Hanya Bisa Digunakan Oleh Admin 😊|💀 !',
+    botAdmin: 'Perintah Ini Hanya Bisa Digunakan Ketika Bot Menjadi Admin 😊|💀 !',
+    owner: 'Perintah Ini Hanya Bisa Digunakan Oleh Owner 😊|💀 !',
+    group: 'Perintah Ini Hanya Bisa Digunakan Di Group 😊|💀 !',
+    private: 'Perintah Ini Hanya Bisa Digunakan Di Private 😊|💀 !',
+	bot: 'Fitur Khusus Pengguna Nomor Bot 😊|💀 ',
+    errtoimg: 'Maaf Saat Ini Belum Support Sticker Gif 😊|💀 !',
+    wait: '⏳ Sedang Di Proses 😊|💀 ',
+	lockCmd: 'Fitur Tidak Diaktifkan Oleh Owner 😊|💀 !',
 	example1: 'Selamat Datang @user Di Group @subject Jangan Lupa Baca Rules @desc\n\nNote :\n1. @user (Mention User Join)\n2. @bio (Get Bio User Join)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)\n5. @subject (Group Name)'
 }
 
